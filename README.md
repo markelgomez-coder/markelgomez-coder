@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there I am Markel
+
+📫 How to reach me:
+ markel.gomezr@gmail.com
 
 <!--
 **markelgomez-coder/markelgomez-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
